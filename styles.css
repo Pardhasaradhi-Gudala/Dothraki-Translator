@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+body{
+    font-family: 'Yusei Magic', sans-serif;
+    background-color: #CACFD2;
+}
+
+.header{
+    background-color:burlywood;
+    padding: 30px;
+    max-width: 600px;
+    margin: 0px auto;
+    border-bottom-left-radius: 1.2rem;
+    border-bottom-right-radius: 1.2rem;
+}
+
+.footer{
+    background-color:burlywood;
+    padding: 30px;
+    max-width: 600px;
+    margin: 0px auto;
+    border-radius: 2rem;
+}
+
+
+.headerText{
+    text-align: left;
+    font-size: 3rem;
+    display: inline-block;
+    font-weight: 200px;
+    margin-bottom: 1rem;
+    max-width: 220px;   
+}
+
+.khal{
+
+    max-width: 350px;
+    border-radius: 2rem;
+    margin-left: 20rem;
+    height: 300px;
+    width: 250px;
+    margin-top: 2rem;
+}
+
+.mhysa{
+    max-width: 300px;
+    border-radius: 2rem;
+    margin: 2rem auto 0.2rem;
+    display: block;
+}
+
+.footerText{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.button-translate{
+    padding: 10px;
+    margin: 50px auto;
+    display: block;
+    border-radius: 2rem;
+    align-self: center;
+}
+
+
+.textarea{
+
+    display: block;
+    margin: 50px auto;
+    border-radius: 1rem;
+    border: 2px solid;
+    height: 150px;
+    max-width: 350px;
+    background-color:white ;
+    padding: 15px;
+}
+
+
+.output{
+
+    display: block;
+    margin: 50px auto;
+    border-radius: 1rem;
+    border: 2px solid;
+    height: 150px;
+    max-width: 350px;
+    background-color:white ;
+    padding: 15px;
+    
+}
